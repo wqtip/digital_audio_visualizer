@@ -5,7 +5,10 @@ A real-time **audio spectrum visualizer** implemented in **SystemVerilog** on an
 ---
 ## Demo Video
 
-https://github.com/user-attachments/assets/a713a919-c182-429c-94c2-f1a0b3abd482
+
+
+https://github.com/user-attachments/assets/0ad66c76-841d-4c19-b850-02f4c024d3de
+
 
 ---
 ## Features
